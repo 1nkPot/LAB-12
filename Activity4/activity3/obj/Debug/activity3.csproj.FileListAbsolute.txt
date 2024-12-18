@@ -1,0 +1,6 @@
+C:\Users\233503\source\repos\activity3\activity3\obj\Debug\activity3.csproj.AssemblyReference.cache
+C:\Users\233503\source\repos\activity3\activity3\obj\Debug\activity3.csproj.SuggestedBindingRedirects.cache
+C:\Users\233503\source\repos\activity3\activity3\obj\Debug\MainWindow.g.cs
+C:\Users\233503\source\repos\activity3\activity3\obj\Debug\App.g.cs
+C:\Users\233503\source\repos\activity3\activity3\obj\Debug\activity3_MarkupCompile.cache
+C:\Users\233503\source\repos\activity3\activity3\obj\Debug\activity3_MarkupCompile.lref
